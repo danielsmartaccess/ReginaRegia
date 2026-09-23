@@ -48,7 +48,7 @@ Toda a navegação é feita por estado em [src/App.tsx](src/App.tsx) (não há r
 
 ## Estrutura
 
-```
+```text
 src/
 ├── App.tsx                  # Todas as telas e a máquina de estados de navegação
 ├── main.tsx                 # Entrada React
