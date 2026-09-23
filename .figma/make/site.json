@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to create and manage applications efficiently with an intuitive interface designed for streamlined workflow and enhanced productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
